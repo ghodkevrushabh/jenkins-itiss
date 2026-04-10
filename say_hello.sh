@@ -1,3 +1,1 @@
-#!/bin/bash/
-
-echo "Hey I'm usin jenkins"
+echo "Hey I'm usin jenkins, Pehli pehli baar"
